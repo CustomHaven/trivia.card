@@ -15,7 +15,7 @@ I have used HTML, CSS and jQuery with the DOM in mind
 
 ## Launch
 
-You can visit the website by going [here](https://customhaven.github.io/trivia-card/)
+You can visit the website by going [here](https://customhaven.github.io/trivia.card/)
 
 ## Status
 
